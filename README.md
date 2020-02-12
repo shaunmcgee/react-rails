@@ -6,7 +6,7 @@
 [![Maintainers Wanted](https://img.shields.io/badge/Maintainers-Wanted-red.svg?style=flat-square)]()
 
 
-React-Rails is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. The benefits:
+React-Rails is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. The benefits are:
 * Automatically renders React server-side and client-side
 * Supports Webpacker 4.x, 3.x, 2.x, 1.1+
 * Supports Sprockets 4.x, 3.x, 2.x
